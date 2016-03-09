@@ -1,0 +1,7 @@
+.settings/org.eclipse.core.*
+org.eclipse*
+application/config/config.php
+application/config/config.php.old
+application/config/datamapper.php
+application/config/database.php
+*.php~
